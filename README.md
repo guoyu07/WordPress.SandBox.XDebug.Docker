@@ -222,3 +222,9 @@ wordpress_1  | [Mon Sep 11 12:56:53.884488 2017] [core:notice] [pid 1] AH00094: 
 You're done !!
 
 ![picture](wordpress-sandbox.png)
+
+Pour autoriser le débogage dans VsCode, ouvrir le volume local mappé sur /var/www/html, et configurer le fichier launch.json du projet ainsi constitué :
+
+![picture](vscode.png)
+
+
