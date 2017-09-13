@@ -11,6 +11,7 @@ chmod +x wordpress-sandbox.sh
 ```
 
 ```
+renald@venantvr:~/wordpress-sandbox$ chmod +x wordpress-sandbox.sh 
 renald@venantvr:~/wordpress-sandbox$ ./wordpress-sandbox.sh 
 Recreating wordpresssandbox_wordpress_1
 Recreating wordpresssandbox_mysql_1
