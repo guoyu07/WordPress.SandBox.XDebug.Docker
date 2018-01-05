@@ -1,4 +1,4 @@
-# WordPress.SandBox.XDebug
+# WordPress.SandBox.XDebug.Docker
 
 Environnement d'intégration WordPress. Persiste la base de données et les plugins dans les répertoires 'db-wordpress' et 'php-wordpress' dans le répertoire courant...
 
